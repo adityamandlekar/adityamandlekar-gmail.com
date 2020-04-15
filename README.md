@@ -1,2 +1,1 @@
-# adityamandlekar-gmail.com
 webdevbootcamp
